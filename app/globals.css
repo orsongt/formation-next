@@ -86,13 +86,10 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: lightblue;
+  background-image: url('https://i.pinimg.com/originals/1e/72/e1/1e72e177da44eac61f206607a320d927.png');
+  background-position: center;
+  background-size: cover;
 }
 
 a {
